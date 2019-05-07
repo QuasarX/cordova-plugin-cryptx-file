@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-crypt-file",
+  "name": "cordova-plugin-cryptx-file",
   "version": "1.3.3",
   "description": "This plugin to encrypt/decrypt the source files.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tkyaji/cordova-plugin-crypt-file.git"
+    "url": "https://github.com/tkyaji/cordova-plugin-cryptx-file.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -12,5 +12,8 @@
     "cordova-ios"
   ],
   "author": "tkyaji",
-  "license": "Apache version 2.0"
+  "license": "Apache version 2.0",
+  "dependencies": {
+    "is-binary-path": "^2.0.0"
+  }
 }
