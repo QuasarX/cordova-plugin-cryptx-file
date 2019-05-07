@@ -1,6 +1,6 @@
 # Cordova crypt file plugin
 HTML source file is encrypted at build, and decrypted at run.  
-https://www.npmjs.com/package/cordova-plugin-crypt-file
+https://www.npmjs.com/package/cordova-plugin-cryptx-file
 
 ## Add Plugin
 `cordova plugin add cordova-plugin-cryptx-file`
