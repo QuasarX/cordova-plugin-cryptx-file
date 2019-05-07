@@ -8,7 +8,7 @@ module.exports = function(context) {
         platforms         = context.requireCordovaModule('cordova-lib/src/platforms/platforms'),
         Parser            = context.requireCordovaModule('cordova-lib/src/cordova/metadata/parser'),
         ParserHelper      = context.requireCordovaModule('cordova-lib/src/cordova/metadata/parserhelper/ParserHelper'),
-        ConfigParser      = context.requireCordovaModule('cordova-common').ConfigParser;
+        ConfigParser      = context.requireCordovaModule('cordova-common').ConfigParser,
         isBinaryPath      = require('is-binary-path');
 
     var deferral = new Q.defer();
