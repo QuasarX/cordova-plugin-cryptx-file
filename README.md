@@ -51,8 +51,7 @@ Specify the target file as a regular expression.
 * CrossWalk
 
 ## Before reporting your issue
-It would be very helpful if you show me your project (If you have GitHub repository, that URL would be nice).
-It is very hard for me to reporduce your enviroment.
+Use this URL https://github.com/tkyaji/cordova-plugin-crypt-file
 
 ## Based on the original cordova-crypt-file created by tkyaji
 
